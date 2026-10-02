@@ -152,7 +152,7 @@ Reports are saved as JSON and Excel files under `testing/test-outputs/`.
 ## Project Structure
 
 ```text
-document-extraction-system/
+intelligent-document-processing-system/
 ├── Backend/
 │   ├── api.py
 │   ├── pipeline.py
@@ -214,8 +214,8 @@ document-extraction-system/
 Clone the repository:
 
 ```bash
-git clone https://github.com/avdhanda44/document-extraction-system.git
-cd document-extraction-system
+git clone https://github.com/avdhanda44/intelligent-document-processing-system.git
+cd intelligent-document-processing-system
 ```
 
 Install Python dependencies with `uv`:
